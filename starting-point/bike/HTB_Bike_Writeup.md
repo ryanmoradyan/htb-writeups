@@ -1,7 +1,6 @@
 # HTB Bike — Full Debrief & Notes
 **Difficulty:** Easy (Tier 1 Starting Point)  
 **Core Vulnerability:** Server-Side Template Injection (SSTI) → RCE  
-**Flag:** `[redacted]`
 
 ---
 
