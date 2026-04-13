@@ -1,6 +1,6 @@
 # CCTV — HackTheBox Writeup
 
-**Difficulty:** Easy (rated Medium by community)
+**Difficulty:** Medium
 **OS:** Linux (Ubuntu 24.04)
 **Season:** 10
 **CVEs:** CVE-2024-51482 · CVE-2025-60787
